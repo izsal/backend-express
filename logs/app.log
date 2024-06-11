@@ -1,0 +1,318 @@
+2024-06-08T11:55:04.766Z [info]: Server started on port 3000
+2024-06-08T15:33:54.038Z [info]: Server started on port 3000
+2024-06-08T15:34:35.434Z [info]: Incoming request: POST /api/login
+2024-06-08T15:34:35.434Z [info]: HTTPS POST /api/login
+2024-06-08T15:34:35.434Z [info]: Incoming request: POST /api/login
+2024-06-08T15:35:15.561Z [info]: Incoming request: GET /api/admin/users
+2024-06-08T15:35:15.562Z [info]: HTTPS GET /api/admin/users
+2024-06-08T15:35:15.562Z [info]: Incoming request: GET /api/admin/users
+2024-06-08T15:35:31.296Z [info]: Incoming request: GET /api/admin/users
+2024-06-08T15:35:31.297Z [info]: HTTPS GET /api/admin/users
+2024-06-08T15:35:31.298Z [info]: Incoming request: GET /api/admin/users
+2024-06-08T15:36:06.760Z [info]: Incoming request: POST /api/admin/users
+2024-06-08T15:36:06.760Z [info]: HTTPS POST /api/admin/users
+2024-06-08T15:36:06.761Z [info]: Incoming request: POST /api/admin/users
+2024-06-08T15:36:19.585Z [info]: Incoming request: GET /api/admin/users/2
+2024-06-08T15:36:19.585Z [info]: HTTPS GET /api/admin/users/2
+2024-06-08T15:36:19.586Z [info]: Incoming request: GET /api/admin/users/2
+2024-06-08T15:36:28.151Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:36:28.152Z [info]: HTTPS DELETE /api/admin/users/2
+2024-06-08T15:36:28.152Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:39:20.262Z [info]: Server started on port 3000
+2024-06-08T15:39:25.220Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:39:25.221Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:41:07.049Z [info]: Server started on port 3000
+2024-06-08T15:41:08.396Z [info]: Server started on port 3000
+2024-06-08T15:41:14.964Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:41:14.965Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:42:01.012Z [info]: Server started on port 3000
+2024-06-08T15:42:09.677Z [info]: Incoming request: GET /
+2024-06-08T15:42:09.684Z [info]: Welcome to Api was hit
+2024-06-08T15:42:09.685Z [error]: This is an error message
+2024-06-08T15:42:29.275Z [info]: Server started on port 3000
+2024-06-08T15:42:46.302Z [info]: Server started on port 3000
+2024-06-08T15:42:55.075Z [info]: Server started on port 3000
+2024-06-08T15:42:57.326Z [info]: Server started on port 3000
+2024-06-08T15:43:01.394Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:43:01.395Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:43:02.681Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:43:02.682Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:43:31.968Z [info]: Server started on port 3000
+2024-06-08T15:44:10.654Z [info]: Server started on port 3000
+2024-06-08T15:44:17.973Z [info]: Server started on port 3000
+2024-06-08T15:44:20.702Z [info]: Server started on port 3000
+2024-06-08T15:44:24.955Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:44:24.956Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:44:25.601Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:44:25.601Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:44:34.707Z [info]: Server started on port 3000
+2024-06-08T15:45:08.213Z [info]: Server started on port 3000
+2024-06-08T15:45:10.339Z [info]: Server started on port 3000
+2024-06-08T15:45:12.450Z [info]: Server started on port 3000
+2024-06-08T15:45:15.098Z [info]: Server started on port 3000
+2024-06-08T15:45:17.164Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:45:17.164Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:45:55.967Z [info]: Server started on port 3000
+2024-06-08T15:46:14.581Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T15:46:14.582Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T15:46:20.887Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T15:46:20.888Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T15:47:29.042Z [info]: Server started on port 3000
+2024-06-08T15:47:29.961Z [info]: Server started on port 3000
+2024-06-08T15:47:34.798Z [info]: Server started on port 3000
+2024-06-08T15:47:35.240Z [info]: Server started on port 3000
+2024-06-08T15:47:56.056Z [info]: Server started on port 3000
+2024-06-08T15:48:11.683Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:48:11.683Z [info]: HTTPS DELETE /api/admin/users/2
+2024-06-08T15:48:11.684Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:48:21.921Z [info]: Server started on port 3000
+2024-06-08T15:50:25.866Z [info]: Server started on port 3000
+2024-06-08T15:50:27.767Z [info]: Server started on port 3000
+2024-06-08T15:50:34.547Z [info]: Server started on port 3000
+2024-06-08T15:50:36.600Z [info]: Server started on port 3000
+2024-06-08T15:50:41.330Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:50:41.330Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:52:27.250Z [info]: Server started on port 3000
+2024-06-08T15:52:31.841Z [info]: Server started on port 3000
+2024-06-08T15:52:39.374Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:52:39.374Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:52:54.015Z [info]: Server started on port 3000
+2024-06-08T15:52:55.374Z [info]: Server started on port 3000
+2024-06-08T15:52:58.699Z [info]: Server started on port 3000
+2024-06-08T15:53:02.473Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:53:02.476Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:54:00.262Z [info]: Server started on port 3000
+2024-06-08T15:54:04.081Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:54:04.086Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:54:27.621Z [info]: Server started on port 3000
+2024-06-08T15:54:28.194Z [info]: Server started on port 3000
+2024-06-08T15:54:33.760Z [info]: Server started on port 3000
+2024-06-08T15:54:36.505Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:54:36.505Z [info]: HTTPS DELETE /api/admin/users/2
+2024-06-08T15:54:36.505Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:55:08.978Z [info]: Server started on port 3000
+2024-06-08T15:55:09.401Z [info]: Server started on port 3000
+2024-06-08T15:55:23.181Z [info]: Server started on port 3000
+2024-06-08T15:55:27.442Z [info]: Server started on port 3000
+2024-06-08T15:55:31.779Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:55:31.779Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:55:42.936Z [info]: Server started on port 3000
+2024-06-08T15:55:44.593Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:55:44.593Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:55:55.194Z [info]: Server started on port 3000
+2024-06-08T15:55:59.809Z [info]: Server started on port 3000
+2024-06-08T15:56:07.138Z [info]: Server started on port 3000
+2024-06-08T15:56:11.505Z [info]: Server started on port 3000
+2024-06-08T15:56:12.793Z [info]: Server started on port 3000
+2024-06-08T15:56:15.852Z [info]: Server started on port 3000
+2024-06-08T15:56:18.352Z [info]: Server started on port 3000
+2024-06-08T15:56:21.483Z [info]: Server started on port 3000
+2024-06-08T15:56:24.725Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:56:44.427Z [info]: Server started on port 3000
+2024-06-08T15:56:47.394Z [info]: Server started on port 3000
+2024-06-08T15:56:52.014Z [info]: Server started on port 3000
+2024-06-08T15:56:56.288Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:56:56.297Z [error]: undefined
+2024-06-08T15:57:10.792Z [info]: Server started on port 3000
+2024-06-08T15:57:11.819Z [info]: Server started on port 3000
+2024-06-08T15:57:14.311Z [info]: Server started on port 3000
+2024-06-08T15:57:14.844Z [info]: Server started on port 3000
+2024-06-08T15:57:18.273Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:57:18.283Z [error]: undefined
+2024-06-08T15:57:26.999Z [info]: Server started on port 3000
+2024-06-08T15:57:32.486Z [info]: Server started on port 3000
+2024-06-08T15:57:34.566Z [info]: Server started on port 3000
+2024-06-08T15:57:35.682Z [info]: Server started on port 3000
+2024-06-08T15:57:39.476Z [info]: Server started on port 3000
+2024-06-08T15:57:41.175Z [info]: Server started on port 3000
+2024-06-08T15:57:42.884Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:57:42.885Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:57:55.349Z [info]: Server started on port 3000
+2024-06-08T15:57:56.816Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:57:56.816Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T15:58:00.484Z [info]: Server started on port 3000
+2024-06-08T15:58:20.387Z [info]: Server started on port 3000
+2024-06-08T16:00:54.451Z [info]: Server started on port 3000
+2024-06-08T16:00:57.391Z [info]: Server started on port 3000
+2024-06-08T16:02:49.007Z [info]: Server started on port 3000
+2024-06-08T16:03:05.630Z [info]: Server started on port 3000
+2024-06-08T16:03:16.562Z [info]: Server started on port 3000
+2024-06-08T16:03:17.454Z [info]: Server started on port 3000
+2024-06-08T16:03:22.110Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T16:03:22.110Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T16:04:04.773Z [info]: Server started on port 3000
+2024-06-08T16:04:11.589Z [info]: Server started on port 3000
+2024-06-08T16:04:24.049Z [info]: Server started on port 3000
+2024-06-08T16:04:29.564Z [info]: Server started on port 3000
+2024-06-08T16:04:36.748Z [info]: Server started on port 3000
+2024-06-08T16:04:42.281Z [info]: Server started on port 3000
+2024-06-08T16:04:49.815Z [info]: Server started on port 3000
+2024-06-08T16:04:55.452Z [info]: Server started on port 3000
+2024-06-08T16:05:05.982Z [info]: Server started on port 3000
+2024-06-08T16:05:06.413Z [info]: Server started on port 3000
+2024-06-08T16:05:16.635Z [info]: Server started on port 3000
+2024-06-08T16:05:21.019Z [info]: Incoming request: DELETE /api/admin/users/2
+2024-06-08T16:05:23.973Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:05:48.808Z [info]: Server started on port 3000
+2024-06-08T16:05:49.437Z [info]: Server started on port 3000
+2024-06-08T16:05:51.574Z [info]: Server started on port 3000
+2024-06-08T16:05:54.788Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:05:55.620Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:06:07.923Z [info]: Server started on port 3000
+2024-06-08T16:06:09.832Z [info]: Server started on port 3000
+2024-06-08T16:06:11.481Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:06:11.999Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:07:18.861Z [info]: Server started on port 3000
+2024-06-08T16:07:33.825Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:07:34.474Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:09:31.614Z [info]: Server started on port 3000
+2024-06-08T16:09:41.231Z [info]: Server started on port 3000
+2024-06-08T16:09:52.541Z [info]: Server started on port 3000
+2024-06-08T16:10:02.774Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:02.774Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:02.800Z [info]: Fetched user with ID: 1 successfully
+2024-06-08T16:10:02.800Z [info]: Response data: undefined
+2024-06-08T16:10:36.190Z [info]: Server started on port 3000
+2024-06-08T16:10:39.447Z [info]: Server started on port 3000
+2024-06-08T16:10:51.189Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:51.189Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:51.206Z [info]: Fetched user with ID: 1 successfully
+2024-06-08T16:10:51.207Z [info]: Response data: undefined
+2024-06-08T16:10:51.943Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:51.946Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-08T16:10:51.954Z [info]: Fetched user with ID: 1 successfully
+2024-06-08T16:10:51.955Z [info]: Response data: undefined
+2024-06-08T16:11:10.896Z [info]: Server started on port 3000
+2024-06-08T16:11:15.586Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:11:15.587Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:11:15.616Z [info]: User with ID: 3 deleted successfully
+2024-06-08T16:11:15.616Z [info]: Response data: undefined
+2024-06-08T16:11:16.206Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:11:16.207Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-08T16:11:16.220Z [info]: User with ID: 3 deleted successfully
+2024-06-08T16:11:16.220Z [info]: Response data: undefined
+2024-06-09T07:37:10.247Z [info]: Server started on port 3000
+2024-06-09T07:37:22.914Z [info]: Incoming request: POST /api/login
+2024-06-09T07:37:22.915Z [info]: Incoming request: POST /api/login
+2024-06-09T07:37:22.917Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:37:22.924Z [info]: User login successful
+2024-06-09T07:37:22.924Z [error]: Error during login: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:37:22.925Z [error]: Unhandled error: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:37:22.926Z [error]: Unhandled error: Cannot set headers after they are sent to the client
+2024-06-09T07:38:30.097Z [info]: Server started on port 3000
+2024-06-09T07:38:33.798Z [info]: Server started on port 3000
+2024-06-09T07:38:39.093Z [info]: Server started on port 3000
+2024-06-09T07:38:42.314Z [info]: Incoming request: POST /api/login
+2024-06-09T07:38:42.315Z [info]: Incoming request: POST /api/login
+2024-06-09T07:38:42.320Z [error]: Unhandled error: undefined
+2024-06-09T07:38:42.322Z [info]: User login successful
+2024-06-09T07:38:42.322Z [error]: Error during login: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:38:42.323Z [error]: Unhandled error: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:38:42.324Z [error]: Unhandled error: Cannot set headers after they are sent to the client
+2024-06-09T07:40:42.052Z [info]: Server started on port 3000
+2024-06-09T07:40:56.349Z [info]: Incoming request: POST /api/login
+2024-06-09T07:40:56.352Z [error]: Unhandled error: undefined
+2024-06-09T07:41:15.623Z [info]: Server started on port 3000
+2024-06-09T07:41:17.369Z [info]: Server started on port 3000
+2024-06-09T07:41:20.014Z [info]: Incoming request: POST /api/login
+2024-06-09T07:41:20.016Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:41:34.563Z [info]: Server started on port 3000
+2024-06-09T07:41:35.983Z [info]: Incoming request: POST /api/login
+2024-06-09T07:41:35.989Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:42:00.569Z [info]: Server started on port 3000
+2024-06-09T07:42:08.546Z [info]: Server started on port 3000
+2024-06-09T07:42:10.054Z [info]: Incoming request: POST /api/login
+2024-06-09T07:42:10.057Z [error]: Unhandled error: Validation error
+2024-06-09T07:42:43.006Z [info]: Server started on port 3000
+2024-06-09T07:42:54.306Z [info]: Server started on port 3000
+2024-06-09T07:43:01.427Z [info]: Server started on port 3000
+2024-06-09T07:43:12.434Z [info]: Server started on port 3000
+2024-06-09T07:43:19.712Z [info]: Server started on port 3000
+2024-06-09T07:44:33.168Z [info]: Incoming request: POST /api/login
+2024-06-09T07:44:33.216Z [error]: User not found
+2024-06-09T07:44:33.308Z [error]: Invalid password
+2024-06-09T07:44:33.314Z [info]: Incoming request: [object Object]
+2024-06-09T07:44:56.845Z [info]: Server started on port 3000
+2024-06-09T07:44:57.182Z [info]: Server started on port 3000
+2024-06-09T07:45:00.268Z [info]: Incoming request: POST /api/login
+2024-06-09T07:45:00.280Z [error]: User not found
+2024-06-09T07:45:00.372Z [error]: Invalid password
+2024-06-09T07:45:00.377Z [info]: Incoming request: [object Object]
+2024-06-09T07:45:26.192Z [info]: Server started on port 3000
+2024-06-09T07:45:43.058Z [info]: Server started on port 3000
+2024-06-09T07:45:58.605Z [info]: Server started on port 3000
+2024-06-09T07:45:59.672Z [info]: Server started on port 3000
+2024-06-09T07:46:02.800Z [info]: Server started on port 3000
+2024-06-09T07:46:07.877Z [info]: Server started on port 3000
+2024-06-09T07:46:08.666Z [info]: Server started on port 3000
+2024-06-09T07:46:20.922Z [info]: Server started on port 3000
+2024-06-09T07:46:21.562Z [info]: Server started on port 3000
+2024-06-09T07:46:28.078Z [info]: Incoming request: POST /api/login
+2024-06-09T07:46:28.082Z [error]: Unhandled error: Validation error
+2024-06-09T07:46:37.213Z [info]: Incoming request: POST /api/login
+2024-06-09T07:46:37.344Z [info]: Incoming request: [object Object]
+2024-06-09T07:46:50.125Z [info]: Server started on port 3000
+2024-06-09T07:46:52.544Z [info]: Server started on port 3000
+2024-06-09T07:46:55.791Z [info]: Server started on port 3000
+2024-06-09T07:47:00.064Z [info]: Server started on port 3000
+2024-06-09T07:47:01.359Z [info]: Server started on port 3000
+2024-06-09T07:47:03.681Z [info]: Server started on port 3000
+2024-06-09T07:47:07.230Z [info]: Server started on port 3000
+2024-06-09T07:47:08.899Z [info]: Server started on port 3000
+2024-06-09T07:47:10.196Z [info]: Server started on port 3000
+2024-06-09T07:47:16.089Z [info]: Server started on port 3000
+2024-06-09T07:47:18.762Z [info]: Incoming request: POST /api/login
+2024-06-09T07:47:18.870Z [info]: Data request: {"id":1,"name":"isal-new","email":"isal@gmail.com","password":"$2a$10$wxN1kZLKEr2TyMDax9q6JurXhe9ziHItrXaT7uosHcoJhDRT3imPW"}
+2024-06-09T07:47:56.951Z [info]: Server started on port 3000
+2024-06-09T07:48:00.538Z [info]: Server started on port 3000
+2024-06-09T07:48:05.678Z [info]: Server started on port 3000
+2024-06-09T07:48:15.656Z [info]: Server started on port 3000
+2024-06-09T07:48:29.273Z [info]: Server started on port 3000
+2024-06-09T07:48:43.905Z [info]: Server started on port 3000
+2024-06-09T07:48:47.764Z [info]: Server started on port 3000
+2024-06-09T07:49:06.934Z [info]: Server started on port 3000
+2024-06-09T07:49:10.627Z [info]: Server started on port 3000
+2024-06-09T07:49:12.754Z [info]: Server started on port 3000
+2024-06-09T07:49:14.011Z [info]: Server started on port 3000
+2024-06-09T07:49:23.499Z [info]: Server started on port 3000
+2024-06-09T07:49:36.476Z [info]: Server started on port 3000
+2024-06-09T07:49:39.493Z [info]: Server started on port 3000
+2024-06-09T07:49:44.801Z [info]: Server started on port 3000
+2024-06-09T07:49:46.707Z [info]: Server started on port 3000
+2024-06-09T07:49:50.216Z [info]: Server started on port 3000
+2024-06-09T07:49:52.163Z [info]: Server started on port 3000
+2024-06-09T07:50:03.580Z [info]: Server started on port 3000
+2024-06-09T07:50:05.386Z [info]: Server started on port 3000
+2024-06-09T07:50:09.050Z [info]: Server started on port 3000
+2024-06-09T07:50:10.558Z [info]: Server started on port 3000
+2024-06-09T07:50:16.512Z [info]: Server started on port 3000
+2024-06-09T07:50:17.579Z [info]: Server started on port 3000
+2024-06-09T07:50:24.971Z [info]: Server started on port 3000
+2024-06-09T07:50:28.924Z [info]: Server started on port 3000
+2024-06-09T07:50:30.745Z [info]: Server started on port 3000
+2024-06-09T07:50:36.328Z [info]: Server started on port 3000
+2024-06-09T07:50:38.389Z [info]: Server started on port 3000
+2024-06-09T07:50:47.356Z [info]: Server started on port 3000
+2024-06-09T07:50:53.176Z [info]: Server started on port 3000
+2024-06-09T07:50:55.552Z [info]: Server started on port 3000
+2024-06-09T07:50:58.002Z [info]: Server started on port 3000
+2024-06-09T07:51:02.500Z [info]: Server started on port 3000
+2024-06-09T07:51:03.767Z [info]: Server started on port 3000
+2024-06-09T07:51:04.431Z [info]: Server started on port 3000
+2024-06-09T07:51:36.102Z [info]: Server started on port 3000

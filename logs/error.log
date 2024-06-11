@@ -1,0 +1,33 @@
+2024-06-09T07:37:22.917Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:37:22.924Z [error]: Error during login: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:37:22.925Z [error]: Unhandled error: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:37:22.926Z [error]: Unhandled error: Cannot set headers after they are sent to the client
+2024-06-09T07:38:42.320Z [error]: Unhandled error: undefined
+2024-06-09T07:38:42.322Z [error]: Error during login: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:38:42.323Z [error]: Unhandled error: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+2024-06-09T07:38:42.324Z [error]: Unhandled error: Cannot set headers after they are sent to the client
+2024-06-09T07:40:56.352Z [error]: Unhandled error: undefined
+2024-06-09T07:41:20.016Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:41:35.989Z [error]: Unhandled error: [object Object],[object Object]
+2024-06-09T07:42:10.057Z [error]: Unhandled error: Validation error
+2024-06-09T07:44:33.216Z [error]: User not found
+2024-06-09T07:44:33.308Z [error]: Invalid password
+2024-06-09T07:45:00.280Z [error]: User not found
+2024-06-09T07:45:00.372Z [error]: Invalid password
+2024-06-09T07:46:28.082Z [error]: Unhandled error: Validation error
