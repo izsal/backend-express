@@ -31,3 +31,70 @@
 2024-06-09T07:45:00.280Z [error]: User not found
 2024-06-09T07:45:00.372Z [error]: Invalid password
 2024-06-09T07:46:28.082Z [error]: Unhandled error: Validation error
+2024-06-11T13:56:52.319Z [error]: Unhandled error: Validation error
+2024-06-11T13:59:27.695Z [error]: Unhandled error: Validation error
+2024-06-11T14:02:00.383Z [error]: Unhandled error: Validation error
+2024-06-11T14:03:35.962Z [error]: Unhandled error: Validation error
+2024-06-11T14:20:16.908Z [error]: Unhandled error: Validation error
+2024-06-11T14:21:38.114Z [error]: Unhandled error: Validation error
+2024-06-11T14:21:47.995Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:23:54.839Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:29:59.388Z [error]: Unhandled error: Validation error
+2024-06-11T14:30:07.271Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:35:06.002Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:38:34.089Z [error]: Unhandled error: Validation error
+2024-06-11T14:38:42.014Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:39:16.986Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:43:20.440Z [error]: Unhandled error: users is not defined
+2024-06-11T14:43:20.442Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:165:21)
+2024-06-11T14:44:34.725Z [error]: Unhandled error: users is not defined
+2024-06-11T14:47:09.665Z [error]: Unhandled error: Validation error

@@ -154,18 +154,21 @@ const updateUser = async (req, res) => {
     });
 
     //send response
-    res.status(200).send({
-      success: true,
-      message: "User updated successfully",
-      data: user,
-    });
-    logger.info(`Data request: ${JSON.stringify(users)}`);
+    await Promise.all([
+      res.status(200).send({
+        success: true,
+        message: "User updated successfully",
+        data: user,
+      }),
+      logger.info(`Data request: ${JSON.stringify(user)}`),
+    ]);
   } catch (error) {
+    logger.error(`Unhandled error: ${error.message}`);
+    //send error response
     res.status(500).send({
       success: false,
       message: "Internal server error",
     });
-    logger.error(`Unhandled error: ${error.message}`);
   }
 };
 

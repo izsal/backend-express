@@ -11,7 +11,7 @@ const validateRegister = [
     .notEmpty()
     .withMessage("Email is required")
     .isEmail()
-    .withMessage("Email is invalid")
+    .withMessage("Invalid email format")
     .custom(async (value) => {
       if (!value) {
         throw new Error("Email is required");
@@ -23,7 +23,7 @@ const validateRegister = [
       return true;
     }),
   body("password")
-    .isLength({ min: 8 })
+    .isLength({ min: 6 })
     .withMessage("Password must be at least 6 characters long"),
 ];
 

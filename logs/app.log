@@ -316,3 +316,234 @@
 2024-06-09T07:51:03.767Z [info]: Server started on port 3000
 2024-06-09T07:51:04.431Z [info]: Server started on port 3000
 2024-06-09T07:51:36.102Z [info]: Server started on port 3000
+2024-06-11T13:54:56.454Z [info]: Server started on port 3000
+2024-06-11T13:56:52.315Z [info]: Incoming request: POST /api/register
+2024-06-11T13:56:52.319Z [error]: Unhandled error: Validation error
+2024-06-11T13:59:24.017Z [info]: Server started on port 3000
+2024-06-11T13:59:27.692Z [info]: Incoming request: POST /api/register
+2024-06-11T13:59:27.695Z [error]: Unhandled error: Validation error
+2024-06-11T13:59:36.235Z [info]: Server started on port 3000
+2024-06-11T14:01:39.797Z [info]: Server started on port 3000
+2024-06-11T14:01:56.971Z [info]: Server started on port 3000
+2024-06-11T14:02:00.380Z [info]: Incoming request: POST /api/register
+2024-06-11T14:02:00.383Z [error]: Unhandled error: Validation error
+2024-06-11T14:02:24.580Z [info]: Incoming request: POST /api/register
+2024-06-11T14:02:24.795Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6","createdAt":"2024-06-11T14:02:24.784Z","updatedAt":"2024-06-11T14:02:24.784Z"}
+2024-06-11T14:02:41.760Z [info]: Incoming request: POST /api/login
+2024-06-11T14:02:41.869Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6"}
+2024-06-11T14:03:35.951Z [info]: Incoming request: POST /api/login
+2024-06-11T14:03:35.962Z [error]: Unhandled error: Validation error
+2024-06-11T14:06:51.040Z [info]: Incoming request: POST /api/login
+2024-06-11T14:06:51.161Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6"}
+2024-06-11T14:10:25.886Z [info]: Incoming request: POST /api/login
+2024-06-11T14:10:26.002Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6"}
+2024-06-11T14:11:31.513Z [info]: Incoming request: POST /api/login
+2024-06-11T14:11:31.628Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6"}
+2024-06-11T14:15:34.024Z [info]: Incoming request: POST /api/login
+2024-06-11T14:15:34.137Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$e/dSIZMmqLezE4lETWQhSOagCnuv9QYk.NtE2IJbPibcRvq/5zZj6"}
+2024-06-11T14:18:24.021Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:18:24.037Z [info]: Data request: [{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:20:16.889Z [info]: Incoming request: POST /api/admin/users
+2024-06-11T14:20:16.908Z [error]: Unhandled error: Validation error
+2024-06-11T14:20:23.786Z [info]: Incoming request: POST /api/admin/users
+2024-06-11T14:20:23.916Z [info]: Data request: {"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com","password":"$2a$10$NEVmjhjSl.ye2a1DNvez7.1oeJpvnXbkFzxRWD47J6ITThH57htpK","createdAt":"2024-06-11T14:20:23.893Z","updatedAt":"2024-06-11T14:20:23.893Z"}
+2024-06-11T14:20:23.962Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:20:23.974Z [info]: Data request: [{"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:21:33.015Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-11T14:21:33.058Z [info]: Data request: {"id":1,"name":"isal-new","email":"isal@gmail.com"}
+2024-06-11T14:21:38.110Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:21:38.114Z [error]: Unhandled error: Validation error
+2024-06-11T14:21:47.869Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:21:47.995Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:21:48.035Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:21:48.040Z [info]: Data request: [{"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:22:25.085Z [info]: Server started on port 3000
+2024-06-11T14:22:27.606Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:22:27.666Z [info]: Data request: [{"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:22:30.947Z [info]: Incoming request: GET /api/admin/users/3
+2024-06-11T14:22:30.962Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"}
+2024-06-11T14:23:54.707Z [info]: Incoming request: PUT /api/admin/users/3
+2024-06-11T14:23:54.839Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:23:54.867Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:23:54.870Z [info]: Data request: [{"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:29:42.420Z [info]: Server started on port 3000
+2024-06-11T14:29:44.649Z [info]: Server started on port 3000
+2024-06-11T14:29:50.336Z [info]: Incoming request: POST /api/login
+2024-06-11T14:29:50.470Z [info]: Data request: {"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com","password":"$2a$10$hYb/atEbX/TD4lIQEWgK1uW7rOjOvq14w6/YdJs90uqAyCvd2o1Nu"}
+2024-06-11T14:29:51.845Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:29:51.856Z [info]: Data request: [{"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:29:54.230Z [info]: Incoming request: GET /api/admin/users/4
+2024-06-11T14:29:54.247Z [info]: Data request: {"id":4,"name":"qurlinas","email":"iqurlinas1@gmail.com"}
+2024-06-11T14:29:59.370Z [info]: Incoming request: PUT /api/admin/users/4
+2024-06-11T14:29:59.388Z [error]: Unhandled error: Validation error
+2024-06-11T14:30:07.144Z [info]: Incoming request: PUT /api/admin/users/4
+2024-06-11T14:30:07.271Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:30:07.307Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:30:07.310Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:33:31.778Z [info]: Server started on port 3000
+2024-06-11T14:33:35.239Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:33:35.293Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:34:20.025Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:34:20.035Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":3,"name":"izsal qurlinas afandi","email":"iqurlinas@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:34:42.808Z [info]: Incoming request: DELETE /api/admin/users/3
+2024-06-11T14:34:42.838Z [info]: Delete Success
+2024-06-11T14:34:42.843Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:34:42.846Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:34:53.169Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-11T14:34:53.184Z [info]: Data request: {"id":1,"name":"isal-new-update","email":"isal@gmail.com"}
+2024-06-11T14:35:05.882Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:35:06.002Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:35:06.040Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:35:06.048Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:37:46.788Z [info]: Server started on port 3000
+2024-06-11T14:37:48.737Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:38:34.027Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:38:34.089Z [error]: Unhandled error: Validation error
+2024-06-11T14:38:41.869Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:38:42.014Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:38:58.186Z [info]: Server started on port 3000
+2024-06-11T14:39:00.583Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:39:00.633Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:39:05.795Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-11T14:39:05.809Z [info]: Data request: {"id":1,"name":"isal-new","email":"isal@gmail.com"}
+2024-06-11T14:39:16.866Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:39:16.986Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:164:21)
+2024-06-11T14:39:17.023Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:39:17.026Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:42:56.644Z [info]: Server started on port 3000
+2024-06-11T14:43:06.172Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:43:06.219Z [info]: Data request: [{"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:43:12.776Z [info]: Incoming request: GET /api/admin/users/4
+2024-06-11T14:43:12.794Z [info]: Data request: {"id":4,"name":"qurlinas - edit","email":"iqurlinas1@gmail.com"}
+2024-06-11T14:43:20.315Z [info]: Incoming request: PUT /api/admin/users/4
+2024-06-11T14:43:20.440Z [error]: Unhandled error: users is not defined
+2024-06-11T14:43:20.442Z [error]: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:795:10)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:175:12)
+    at ServerResponse.json (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:279:15)
+    at ServerResponse.send (/Users/qwarts/Fullstack_javascript/backend-express/node_modules/express/lib/response.js:163:21)
+    at updateUser (/Users/qwarts/Fullstack_javascript/backend-express/controllers/UserController.js:165:21)
+2024-06-11T14:43:20.479Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:43:20.482Z [info]: Data request: [{"id":4,"name":"qurlinas - ","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:44:11.457Z [info]: Server started on port 3000
+2024-06-11T14:44:13.130Z [info]: Server started on port 3000
+2024-06-11T14:44:16.737Z [info]: Server started on port 3000
+2024-06-11T14:44:18.985Z [info]: Server started on port 3000
+2024-06-11T14:44:24.794Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:44:24.863Z [info]: Data request: [{"id":4,"name":"qurlinas - ","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:44:26.461Z [info]: Incoming request: GET /api/admin/users/4
+2024-06-11T14:44:26.490Z [info]: Data request: {"id":4,"name":"qurlinas - ","email":"iqurlinas1@gmail.com"}
+2024-06-11T14:44:34.609Z [info]: Incoming request: PUT /api/admin/users/4
+2024-06-11T14:44:34.725Z [error]: Unhandled error: users is not defined
+2024-06-11T14:45:03.400Z [info]: Server started on port 3000
+2024-06-11T14:45:04.401Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:04.449Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new-update","email":"isal@gmail.com"}]
+2024-06-11T14:45:09.127Z [info]: Incoming request: GET /api/admin/users/1
+2024-06-11T14:45:09.136Z [info]: Data request: {"id":1,"name":"isal-new-update","email":"isal@gmail.com"}
+2024-06-11T14:45:19.717Z [info]: Incoming request: PUT /api/admin/users/1
+2024-06-11T14:45:19.885Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:19.891Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:24.174Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:24.181Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:25.194Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:25.198Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:25.845Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:25.847Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:26.305Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:26.308Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:26.765Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:26.771Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:27.108Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:27.113Z [info]: Data request: [{"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:31.589Z [info]: Incoming request: GET /api/admin/users/4
+2024-06-11T14:45:31.599Z [info]: Data request: {"id":4,"name":"qurlinas - update","email":"iqurlinas1@gmail.com"}
+2024-06-11T14:45:46.764Z [info]: Incoming request: PUT /api/admin/users/4
+2024-06-11T14:45:46.941Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:46.947Z [info]: Data request: [{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:49.446Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:49.448Z [info]: Data request: [{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:49.775Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:49.780Z [info]: Data request: [{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:50.112Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:50.114Z [info]: Data request: [{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:45:50.476Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:45:50.480Z [info]: Data request: [{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:46:34.995Z [info]: Server started on port 3000
+2024-06-11T14:46:44.174Z [info]: Server started on port 3000
+2024-06-11T14:46:47.144Z [info]: Server started on port 3000
+2024-06-11T14:47:09.631Z [info]: Incoming request: POST /api/admin/users
+2024-06-11T14:47:09.665Z [error]: Unhandled error: Validation error
+2024-06-11T14:47:16.904Z [info]: Incoming request: POST /api/admin/users
+2024-06-11T14:47:17.022Z [info]: Data request: {"id":5,"name":"isal","email":"isals@gmail.com","password":"$2a$10$sJvgEbpYI6BlMBjcqgmlIuZca/1Bi2bFxeUoRT6NbEDWTFqQR4tQm","createdAt":"2024-06-11T14:47:17.006Z","updatedAt":"2024-06-11T14:47:17.006Z"}
+2024-06-11T14:47:17.065Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:47:17.076Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:47:20.576Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:47:20.586Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:47:20.814Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:47:20.820Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:47:21.270Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:47:21.276Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:47:21.976Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:47:21.982Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:48:00.588Z [info]: Server started on port 3000
+2024-06-11T14:49:42.471Z [info]: Server started on port 3000
+2024-06-11T14:49:45.168Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:45.202Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:49:45.569Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:45.575Z [info]: Data request: [{"id":5,"name":"isal","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:49:46.870Z [info]: Incoming request: GET /api/admin/users/5
+2024-06-11T14:49:46.881Z [info]: Data request: {"id":5,"name":"isal","email":"isals@gmail.com"}
+2024-06-11T14:49:52.956Z [info]: Incoming request: PUT /api/admin/users/5
+2024-06-11T14:49:53.083Z [info]: Data request: {"id":5,"name":"isal-edit","email":"isals@gmail.com","password":"$2a$10$zZyMm.7cmLICS1BbewZvOuyP0pElNfzOxt1tLdzbzV5EECn.3f6gq","createdAt":"2024-06-11T14:47:17.006Z","updatedAt":"2024-06-11T14:49:53.066Z"}
+2024-06-11T14:49:53.129Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:53.135Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:49:54.764Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:54.770Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:49:55.409Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:55.411Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-11T14:49:55.669Z [info]: Incoming request: GET /api/admin/users
+2024-06-11T14:49:55.673Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
