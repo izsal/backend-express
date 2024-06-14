@@ -59,11 +59,13 @@ const login = async (req, res) => {
     );
 
     //password incorrect
-    if (!validPassword)
+    if (!validPassword) {
+      logger.error(`Invalid password`);
       return res.status(401).json({
         success: false,
         message: "Invalid password",
       });
+    }
 
     //generate token JWT
     const token = jwt.sign({ id: user.id }, process.env.JWT_SECRET, {
@@ -74,15 +76,17 @@ const login = async (req, res) => {
     const { password, ...userWithoutPassword } = user;
 
     //return response
-    res.status(200).send({
-      success: true,
-      message: "Login successfully",
-      data: {
-        user: userWithoutPassword,
-        token: token,
-      },
-    });
-    logger.info(`Data request: ${JSON.stringify(user)}`);
+    await Promise.all([
+      res.status(200).send({
+        success: true,
+        message: "User login successfully",
+        data: {
+          user: userWithoutPassword,
+          token: token,
+        },
+      }),
+      logger.info(`Data request: ${JSON.stringify(user)}`),
+    ]);
   } catch (error) {
     res.status(500).send({
       success: false,

@@ -547,3 +547,106 @@
 2024-06-11T14:49:55.411Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
 2024-06-11T14:49:55.669Z [info]: Incoming request: GET /api/admin/users
 2024-06-11T14:49:55.673Z [info]: Data request: [{"id":5,"name":"isal-edit","email":"isals@gmail.com"},{"id":4,"name":"qurlinas-ngedit","email":"iqurlinas1@gmail.com"},{"id":1,"name":"isal-new","email":"isal@gmail.com"}]
+2024-06-13T07:25:15.820Z [info]: Server started on port 3000
+2024-06-13T07:28:41.959Z [info]: Server started on port 3000
+2024-06-13T07:38:36.482Z [info]: Server started on port 3000
+2024-06-13T07:40:52.910Z [info]: Incoming request: POST /api/register
+2024-06-13T07:40:52.915Z [error]: Unhandled error: Validation error
+2024-06-13T07:50:43.869Z [info]: Incoming request: POST /api/login
+2024-06-13T07:50:43.872Z [error]: Unhandled error: Validation error
+2024-06-13T07:51:08.673Z [info]: Incoming request: POST /api/login
+2024-06-13T07:51:15.703Z [info]: Incoming request: POST /api/login
+2024-06-13T07:52:43.208Z [info]: Incoming request: POST /api/login
+2024-06-13T07:53:32.667Z [info]: Incoming request: POST /api/login
+2024-06-13T07:53:56.942Z [info]: Incoming request: POST /api/login
+2024-06-13T07:55:33.410Z [info]: Server started on port 3000
+2024-06-13T07:55:36.777Z [info]: Server started on port 3000
+2024-06-13T07:55:46.614Z [info]: Server started on port 3000
+2024-06-13T07:55:48.605Z [info]: Server started on port 3000
+2024-06-13T07:56:05.954Z [info]: Server started on port 3000
+2024-06-13T07:56:21.696Z [info]: Incoming request: POST /api/login
+2024-06-13T07:57:25.652Z [info]: Server started on port 3000
+2024-06-13T07:57:38.641Z [info]: Server started on port 3000
+2024-06-13T07:57:48.591Z [info]: Server started on port 3000
+2024-06-13T07:58:06.081Z [info]: Server started on port 3000
+2024-06-13T07:58:08.873Z [info]: Incoming request: POST /api/login
+2024-06-13T07:58:08.989Z [error]: Unhandled error: false
+2024-06-13T07:58:31.445Z [info]: Server started on port 3000
+2024-06-13T07:58:33.442Z [info]: Server started on port 3000
+2024-06-13T07:58:39.069Z [info]: Incoming request: POST /api/login
+2024-06-13T07:58:39.180Z [error]: Unhandled error: Invalid password
+2024-06-13T07:58:55.179Z [info]: Server started on port 3000
+2024-06-13T07:58:56.495Z [info]: Server started on port 3000
+2024-06-13T07:59:01.118Z [info]: Server started on port 3000
+2024-06-13T07:59:05.711Z [info]: Server started on port 3000
+2024-06-13T07:59:16.809Z [info]: Server started on port 3000
+2024-06-13T07:59:19.372Z [info]: Server started on port 3000
+2024-06-13T07:59:25.988Z [info]: Server started on port 3000
+2024-06-13T07:59:29.910Z [info]: Server started on port 3000
+2024-06-13T07:59:33.055Z [info]: Server started on port 3000
+2024-06-13T07:59:38.069Z [info]: Incoming request: POST /api/login
+2024-06-13T07:59:38.182Z [error]: Invalid password
+2024-06-13T07:59:54.612Z [info]: Server started on port 3000
+2024-06-13T07:59:58.556Z [info]: Server started on port 3000
+2024-06-13T08:00:14.156Z [info]: Server started on port 3000
+2024-06-13T08:00:16.106Z [info]: Server started on port 3000
+2024-06-13T08:00:18.104Z [info]: Incoming request: POST /api/login
+2024-06-13T08:00:31.983Z [info]: Server started on port 3000
+2024-06-13T08:00:35.908Z [info]: Server started on port 3000
+2024-06-13T08:01:02.993Z [info]: Incoming request: POST /api/login
+2024-06-13T08:01:02.998Z [error]: Unhandled error: Validation error
+2024-06-13T08:01:26.360Z [info]: Incoming request: POST /api/login
+2024-06-13T08:01:26.464Z [error]: Invalid password
+2024-06-13T08:02:25.205Z [info]: Incoming request: POST /api/login
+2024-06-13T08:02:25.313Z [error]: Invalid password
+2024-06-13T08:03:08.968Z [info]: Incoming request: POST /api/login
+2024-06-13T08:03:33.093Z [info]: Incoming request: POST /api/login
+2024-06-13T08:03:33.194Z [error]: Invalid password
+2024-06-13T08:04:12.936Z [info]: Incoming request: POST /api/login
+2024-06-13T08:04:40.017Z [info]: Incoming request: POST /api/login
+2024-06-13T08:04:40.019Z [error]: Unhandled error: Validation error
+2024-06-13T08:04:51.112Z [info]: Incoming request: POST /api/login
+2024-06-13T08:04:51.227Z [error]: Invalid password
+2024-06-13T08:05:20.529Z [info]: Incoming request: POST /api/login
+2024-06-13T08:05:20.627Z [error]: Invalid password
+2024-06-13T08:05:50.337Z [info]: Incoming request: POST /api/login
+2024-06-13T08:05:50.339Z [error]: Unhandled error: Validation error
+2024-06-13T08:05:58.659Z [info]: Incoming request: POST /api/login
+2024-06-13T08:05:58.783Z [error]: Invalid password
+2024-06-13T08:06:12.687Z [info]: Incoming request: POST /api/login
+2024-06-13T08:06:12.689Z [error]: Unhandled error: Validation error
+2024-06-13T08:06:22.545Z [info]: Incoming request: POST /api/login
+2024-06-13T08:06:22.668Z [error]: Invalid password
+2024-06-13T08:06:46.034Z [info]: Incoming request: POST /api/login
+2024-06-13T08:06:46.036Z [error]: Unhandled error: Validation error
+2024-06-13T08:07:03.803Z [info]: Incoming request: POST /api/login
+2024-06-13T08:07:03.897Z [error]: Invalid password
+2024-06-13T08:12:57.178Z [info]: Incoming request: POST /api/login
+2024-06-13T08:12:57.303Z [error]: Invalid password
+2024-06-13T08:13:03.376Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:03.473Z [error]: Invalid password
+2024-06-13T08:13:15.708Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:15.820Z [error]: Invalid password
+2024-06-13T08:13:24.856Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:24.956Z [error]: Invalid password
+2024-06-13T08:13:31.983Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:32.087Z [error]: Invalid password
+2024-06-13T08:13:36.100Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:36.176Z [error]: Invalid password
+2024-06-13T08:13:43.013Z [info]: Incoming request: POST /api/login
+2024-06-13T08:13:43.124Z [error]: Invalid password
+2024-06-13T08:14:04.884Z [info]: Incoming request: POST /api/register
+2024-06-13T08:14:04.998Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni","createdAt":"2024-06-13T08:14:04.982Z","updatedAt":"2024-06-13T08:14:04.982Z"}
+2024-06-13T08:14:19.657Z [info]: Incoming request: POST /api/login
+2024-06-13T08:14:19.766Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni"}
+2024-06-13T08:15:23.541Z [info]: Incoming request: POST /api/login
+2024-06-13T08:15:23.657Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni"}
+2024-06-13T08:16:19.695Z [info]: Server started on port 3000
+2024-06-13T08:16:29.124Z [info]: Incoming request: POST /api/login
+2024-06-13T08:16:29.238Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni"}
+2024-06-13T08:17:18.271Z [info]: Incoming request: POST /api/login
+2024-06-13T08:17:18.362Z [error]: Invalid password
+2024-06-13T08:17:26.357Z [info]: Incoming request: POST /api/login
+2024-06-13T08:17:26.444Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni"}
+2024-06-13T08:18:45.486Z [info]: Incoming request: POST /api/login
+2024-06-13T08:18:45.604Z [info]: Data request: {"id":6,"name":"afandi","email":"afandi@gmail.com","password":"$2a$10$dHWZdBcc2qcBOFQq.Ju0Tu/UZfR02BsUj0y1Jm1iKtLs4YHwad8Ni"}
